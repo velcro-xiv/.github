@@ -6,5 +6,4 @@
 [![Timeline graph](https://images.repography.com/29579691/velcro-xiv/velcro/recent-activity/29c2135ee9f755a972c875dcddb2bb03_timeline.svg)](https://github.com/velcro-xiv/velcro/commits)
 [![Issue status graph](https://images.repography.com/29579691/velcro-xiv/velcro/recent-activity/29c2135ee9f755a972c875dcddb2bb03_issues.svg)](https://github.com/velcro-xiv/velcro/issues)
 [![Pull request status graph](https://images.repography.com/29579691/velcro-xiv/velcro/recent-activity/29c2135ee9f755a972c875dcddb2bb03_prs.svg)](https://github.com/velcro-xiv/velcro/pulls)
-[![Trending topics](https://images.repography.com/29579691/velcro-xiv/velcro/recent-activity/29c2135ee9f755a972c875dcddb2bb03_words.svg)](https://github.com/velcro-xiv/velcro/commits)
 [![Top contributors](https://images.repography.com/29579691/velcro-xiv/velcro/recent-activity/29c2135ee9f755a972c875dcddb2bb03_users.svg)](https://github.com/velcro-xiv/velcro/graphs/contributors)
